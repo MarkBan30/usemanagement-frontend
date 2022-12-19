@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="exacc.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   id="svg242"
+   version="1.1"
+   viewBox="0 0 100 125"
+   height="125mm"
+   width="100mm">
+  <defs
+     id="defs236" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:window-height="855"
+     inkscape:window-width="1252"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="321.13443"
+     inkscape:cx="123.08142"
+     inkscape:zoom="0.55324785"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata239">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       y="-35.00058"
+       x="-5.382391"
+       style="fill:none;stroke-width:0.526044"
+       class="cls-1"
+       width="143.43533"
+       height="160.01999"
+       id="rect310" />
+    <g
+       transform="matrix(0.99686024,0,0,1,-5.1657963,1.4954191)"
+       id="g398">
+      <polygon
+         id="polygon312"
+         points="153,240 153,48 96,69.64 96,232.84 "
+         class="cls-2"
+         style="fill:#dee0e0"
+         transform="matrix(0.49803936,0,0,0.55562497,-39.448092,-26.421072)" />
+      <polygon
+         id="polygon314"
+         points="146.24,70.74 146.24,74.94 105.91,87.62 105.91,83.86 "
+         class="cls-3"
+         style="fill:#939699"
+         transform="matrix(0.49803936,0,0,0.55562497,-39.448092,-26.421072)" />
+      <polygon
+         id="polygon316"
+         points="146.24,102.74 146.24,106.94 105.91,116.28 105.91,112.52 "
+         class="cls-3"
+         style="fill:#939699"
+         transform="matrix(0.49803936,0,0,0.55562497,-39.448092,-26.421072)" />
+      <polygon
+         id="polygon318"
+         points="115.61,99.3 115.61,95.44 105.91,98.19 105.91,101.95 "
+         class="cls-3"
+         style="fill:#939699"
+         transform="matrix(0.49803936,0,0,0.55562497,-39.448092,-26.421072)" />
+      <polygon
+         id="polygon320"
+         points="146.24,86.74 134.83,89.98 134.83,94.06 146.24,90.94 "
+         class="cls-3"
+         style="fill:#939699"
+         transform="matrix(0.49803936,0,0,0.55562497,-39.448092,-26.421072)" />
+      <polygon
+         id="polygon322"
+         points="130.63,85.15 130.63,101.26 119.48,104.12 119.48,88.49 "
+         class="cls-4"
+         style="fill:#f80000"
+         transform="matrix(0.49803936,0,0,0.55562497,-39.448092,-26.421072)" />
+      <polygon
+         id="polygon324"
+         points="146.24,118.71 146.24,138.94 105.91,144.94 105.91,126.83 "
+         class="cls-5"
+         style="fill:#ffffff"
+         transform="matrix(0.49803936,0,0,0.55562497,-39.448092,-26.421072)" />
+      <polygon
+         id="polygon326"
+         points="146.24,150.74 146.24,154.93 105.91,159.28 105.91,155.51 "
+         class="cls-3"
+         style="fill:#939699"
+         transform="matrix(0.49803936,0,0,0.55562497,-39.448092,-26.421072)" />
+      <polygon
+         id="polygon328"
+         points="146.24,166.74 146.24,170.94 105.91,173.61 105.91,169.85 "
+         class="cls-3"
+         style="fill:#939699"
+         transform="matrix(0.49803936,0,0,0.55562497,-39.448092,-26.421072)" />
+      <polygon
+         id="polygon330"
+         points="137.6,220.14 127.8,199.6 136.58,180.66 130.94,180.89 124.8,194.81 118.95,181.38 113.54,181.6 121.83,199.56 113.11,218.65 118.25,218.97 124.55,204.2 131.47,219.77 "
+         class="cls-5"
+         style="fill:#ffffff"
+         transform="matrix(0.49803936,0,0,0.55562497,-39.448092,-26.421072)" />
+      <path
+         id="path332"
+         d="M 36.751931,0.24892687 8.3636872,12.272651 v 90.677989 l 28.3882438,3.97828 19.423535,-4.00604 V 12.250426 Z m 0,102.23498313 -25.400008,-2.96146 V 14.856308 L 36.751931,4.6939274 Z"
+         class="cls-6"
+         style="fill:#b9bbbd;stroke-width:0.526044" />
+    </g>
+    <g
+       transform="matrix(0.80320507,0,0,0.78683353,26.722164,21.701839)"
+       id="g545">
+      <polygon
+         transform="matrix(0.26458333,0,0,0.26458333,-19.389551,37.79171)"
+         style="fill:#c43d27"
+         points="77.6,177.6 418.4,177.6 248,44 "
+         id="polygon50" />
+      <polygon
+         transform="matrix(0.26458333,0,0,0.26458333,-19.389551,37.79171)"
+         style="fill:#aa1e0f"
+         points="160.8,177.6 418.4,177.6 248,44 "
+         id="polygon52" />
+      <g
+         id="g527">
+        <rect
+           id="rect30"
+           height="44.450001"
+           width="67.73333"
+           style="fill:#dddac3;stroke-width:0.264583"
+           y="84.781708"
+           x="12.572115" />
+        <polyline
+           id="polyline32"
+           points="120.8,177.6 376.8,177.6 376.8,345.6 "
+           style="fill:#c9c5ad"
+           transform="matrix(0.26458333,0,0,0.26458333,-19.389551,37.79171)" />
+        <path
+           id="path34"
+           d="M 42.205446,127.11505 V 96.000044 c 0,-1.481667 -0.635,-2.751667 -2.11666,-2.751667 h -15.66334 c -1.48166,0 -3.38666,1.27 -3.38666,2.751667 v 31.115006 z"
+           style="fill:#fca12a;stroke-width:0.264583" />
+        <path
+           id="path36"
+           d="M 42.205446,112.29838 V 96.000044 c 0,-1.481667 -0.635,-2.751667 -2.11666,-2.751667 h -15.66334 c -1.48166,0 -3.38666,1.27 -3.38666,2.751667"
+           style="fill:#e58613;stroke-width:0.264583" />
+        <circle
+           id="circle38"
+           r="2.7516665"
+           cy="110.39337"
+           cx="37.33712"
+           style="fill:#db5435;stroke-width:0.264583" />
+        <path
+           id="path40"
+           d="m 39.242116,108.48838 c 1.05833,1.05833 1.05833,2.75167 0,3.81 -1.05833,1.05833 -2.75167,1.05833 -3.81,0"
+           style="fill:#c43d27;stroke-width:0.264583" />
+        <path
+           id="path42"
+           d="m 61.255445,101.71504 h 8.46667 v -5.714996 c 0,-1.481667 -1.48167,-2.751667 -2.75167,-2.751667 h -5.715 z"
+           style="fill:#008aaa;stroke-width:0.264583" />
+        <path
+           id="path44"
+           d="m 57.022115,101.71504 v -8.466663 h -5.92667 c -1.481659,0 -2.539999,1.27 -2.539999,2.751667 v 5.714996 z"
+           style="fill:#00a1ad;stroke-width:0.264583" />
+        <path
+           id="path46"
+           d="m 57.022115,105.94838 h -8.466669 v 5.92667 c 0,1.48166 1.05834,2.54 2.539999,2.54 h 5.92667 z"
+           style="fill:#008aaa;stroke-width:0.264583" />
+        <path
+           id="path48"
+           d="m 61.255445,105.94838 v 8.46667 h 5.715 c 1.48167,0 2.75167,-1.05834 2.75167,-2.54 v -5.92667 z"
+           style="fill:#00a1ad;stroke-width:0.264583" />
+        <g
+           id="g60"
+           transform="matrix(0.26458333,0,0,0.26458333,-19.389551,37.79171)">
+          <polygon
+             id="polygon56"
+             points="356.8,129.6 139.2,129.6 128.8,137.6 367.2,137.6 "
+             style="fill:#c43d27" />
+          <polygon
+             id="polygon58"
+             points="305.6,89.6 190.4,89.6 180,97.6 316,97.6 "
+             style="fill:#c43d27" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,3 @@
+.dropdown.show .dropdown-menu[x-placement="bottom-start"], .dropup.show .dropdown-menu[x-placement="bottom-start"], .bootstrap-select.show .dropdown-menu[x-placement="bottom-start"] {
+    transform: translate3d(150px, 15px, 0) !important;
+}

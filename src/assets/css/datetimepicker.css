@@ -1,0 +1,304 @@
+.date-input{
+    font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+    font-size: 14px;
+    color: #66615b;
+    display: inline-flex;
+    padding: 0px;
+    height: calc(1.9em + 0.75rem + 2px);
+    margin-bottom: 10px;
+}
+
+.clock-background{
+    position: absolute;
+    width: 185px;
+    height: 185px;
+    border: 3px solid #d1ccc0;
+    border-radius: 50%;
+    top: 47px;
+    right: 8px;
+    z-index: -1;
+    box-shadow: inset 0 0 10px, 0 0 5px;
+}
+
+.clock-background-top {
+    position: absolute;
+    width: 3px;
+    height: 8px;
+    background: #262626;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+
+.clock-background-right {
+    position: absolute;
+    width: 6px;
+    height: 3px;
+    background: #262626;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto 0;
+}
+
+.clock-background-bottom {
+    position: absolute;
+    width: 3px;
+    height: 8px;
+    background: #262626;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 0 auto;
+}
+
+.clock-background-left {
+    position: absolute;
+    width: 6px;
+    height: 3px;
+    background: #262626;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto 0;
+}
+
+.clock-background-mode{
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -40px;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 15px;
+}
+
+.clock-info{
+    color: black;
+    margin-top: 10px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.clock-info span{
+    padding: 0px 5px 0px 5px;
+    border-bottom: thin solid black;
+}
+
+.clock-info span svg{
+    position: absolute;
+    top:5px
+}
+
+.clock-info span svg:hover{
+    color:#ff6b6b;
+}
+
+.calendar-input{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.clock-input{
+    padding-top: 10px;
+}
+
+.timezone-text{
+    padding-top: 10px;
+    padding-left: 5px;
+}
+
+.datetime-separetor {
+    width: 4px;
+    height: 1px;
+    background-color: black;
+    margin: auto 5px auto 5px;
+}
+
+.datetime-button {
+    margin-top: -34px !important;
+    margin-bottom: 0px !important;
+    position: absolute !important;
+    padding: 9px 14px 9px 14px !important;
+    right: 15px !important;
+    font-size: 16px !important;
+    background-color: #aaa9a1 !important;
+}
+
+.date-box {
+    border-radius: 3px;
+    position: absolute;
+    background-color: white;
+    z-index: 1000;
+}
+
+.datetime-box {
+    border-radius: 3px;
+    position: absolute;
+    background-color: white;
+    z-index: 1000;
+    display: flex;
+    border: thin solid #dddddd;
+}
+
+.datetime-clock-box{
+    width: 200px;
+    height: 263px;
+}
+
+.react-datetime-picker__wrapper{
+    border: none !important;
+}
+
+.react-datetime-picker__inputGroup__input{
+    color: #66615b;
+    font-size: 14px;
+    font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+}
+
+.react-datetime-picker__inputGroup__year{
+    margin-right: 10px;
+}
+
+.react-calendar {
+    border: unset !important;
+    border-right: thin solid #dddddd !important; 
+    color: #66615b !important;
+    font-size: 14px !important;
+}
+
+.react-datetime-picker__clock {
+    border-color: #dddddd !important;
+}
+
+.react-calendar__month-view__days__day{
+    color: #66615b;
+}
+
+.react-calendar__month-view__days__day--weekend{
+    color: #66615b !important;
+    font-weight: 600;
+}
+
+.react-calendar__tile--now{
+    background-color: #ffe6e6 !important;
+}
+
+.react-calendar__navigation__arrow{
+    font-size: 24px;
+}
+
+.react-calendar__navigation__label__labelText{
+    font-size: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-bottom: thin solid black;
+}
+
+.react-calendar__tile--active{
+    background: #ff6b6b !important;
+    color: white !important;
+    font-weight: 600;
+    text-shadow: 0px 0px 1px black;
+}
+
+.time-box {
+    border: thin solid #dddddd;
+    border-radius: 3px;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    background-color: white;
+    z-index: 1000;
+}
+
+.time-btn {
+    min-width: 44px;
+    width: 44px;
+    height: 44px;
+    min-height: 44px;
+    background-color: white;
+    color:black;
+    font-size: 24px;
+    text-align: center;
+}
+
+.time-btn:hover {
+    background-color: #e6e6e6;
+}
+
+.time-left-btn {
+    position: absolute !important;
+    bottom: 0px;
+}
+
+.time-right-btn {
+    position: absolute !important;
+    right: 0px;
+    bottom: 0px;
+}
+
+.time-top-right-btn {
+    position: absolute !important;
+    right: 0px;
+    top: 0px;
+    background-color: #F3F0F0 !important;
+}
+
+.time-top-left-btn {
+    position: absolute !important;
+    top: 0px;
+    background-color: #F3F0F0 !important;
+}
+
+.time-btn-disabled-text {
+    position: relative; 
+    font-size: 14px;
+    color: grey
+}
+
+.timepicker {
+    position: absolute;
+    top: 40px;
+}
+
+.timepicker-info{
+    visibility: hidden;
+    height: 0px;
+}
+
+.timepicker-bubble circle{
+    r: 11 !important;
+    fill: transparent;
+}
+
+.timepicker-bubble:hover circle{
+    fill: #ff6b6b;
+}
+
+.timepicker-bubble.active circle {
+    fill: #ff6b6b;
+}
+
+.timepicker-bubble.active text {
+    fill: white;
+    font-weight: 600;
+}
+
+.timepicker-bubble.small circle {
+    r: 5 !important;
+}
+
+.timepicker-bubble.small.active circle{
+    r: 5 !important;
+}
+
+.timepicker-bubble text{
+    font-size: 14px;
+    font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+    fill: black;
+}
+
+.timepicker-hand {
+    stroke: black;
+}

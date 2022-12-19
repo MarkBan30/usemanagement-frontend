@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   height="204"
+   width="190"
+   sodipodi:docname="db-certification.svg"
+   version="1.1"
+   viewBox="0 0 190 204"
+   id="Icons">
+  <metadata
+     id="metadata41">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>OCIC_Technology_Database_Detailed</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="g31"
+     inkscape:window-maximized="1"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:cy="95.102606"
+     inkscape:cx="74.568644"
+     inkscape:zoom="1.4796165"
+     showgrid="false"
+     id="namedview39"
+     inkscape:window-height="855"
+     inkscape:window-width="1440"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs12">
+    <style
+       id="style10">.cls-1{fill:none;}.cls-2{fill:#f80000;}.cls-3{fill:#d90000;}.cls-4{fill:#ba0000;}.cls-5{fill:#9b0000;}</style>
+  </defs>
+  <title
+     id="title14">OCIC_Technology_Database_Detailed</title>
+  <path
+     id="path16"
+     d="m 89.757848,31.93722 c -48,0 -87.0000005,-6.72 -87.0000005,-15 v 162 c 0,8.28 39.0000005,15 87.0000005,15 48.000002,0 87.000002,-6.72 87.000002,-15 v -162 c 0,8.28 -39,15 -87.000002,15"
+     class="cls-2" />
+  <path
+     id="path18"
+     d="m 2.7578475,16.93722 v 162 c 0,8.28 39.0000005,15 87.0000005,15 v -162 c -48,0 -87.0000005,-6.72 -87.0000005,-15"
+     class="cls-3" />
+  <path
+     id="path20"
+     d="m 164.75785,24.54722 v 162 c 7.62,-2.23 12,-4.83 12,-7.6 v -162.01 c 0,2.78 -4.37,5.38 -12,7.61"
+     class="cls-3" />
+  <ellipse
+     id="ellipse22"
+     rx="87"
+     cy="16.93722"
+     class="cls-4"
+     ry="15"
+     cx="89.757851" />
+  <path
+     id="path24"
+     d="m 2.7578475,118.93722 c 0,8.28 39.0000005,15 87.0000005,15 48.000002,0 87.000002,-6.72 87.000002,-15 v 12 c 0,8.28 -39,15 -87.000002,15 -48,0 -87.0000005,-6.72 -87.0000005,-15"
+     class="cls-5" />
+  <path
+     id="path26"
+     d="m 176.75785,64.93722 c 0,8.28 -39,15 -87.000002,15 -48,0 -87.0000005,-6.72 -87.0000005,-15 v 12 c 0,8.28 39.0000005,15 87.0000005,15 48.000002,0 87.000002,-6.72 87.000002,-15"
+     class="cls-5" />
+  <svg
+     height="100%"
+     width="100%"
+     xml:space="preserve"
+     viewBox="0 0 56 56"
+     y="0px"
+     x="0px"
+     id="Capa_1"
+     version="1.1"><g
+       transform="translate(-12.723468,-12.472347)"
+       id="g31"><g
+         transform="translate(14.104388,14.133398)"
+         id="g1"><circle
+           id="circle1"
+           r="12"
+           cy="44"
+           cx="42.5"
+           style="fill:#26b999" /><path
+           style="fill:#ffffff"
+           id="path1"
+           d="m 49.071,38.179 c -0.455,-0.316 -1.077,-0.204 -1.392,0.25 l -5.596,8.04 -3.949,-3.242 c -0.426,-0.351 -1.057,-0.288 -1.407,0.139 -0.351,0.427 -0.289,1.057 0.139,1.407 l 4.786,3.929 c 0.18,0.147 0.404,0.227 0.634,0.227 0.045,0 0.091,-0.003 0.137,-0.009 0.276,-0.039 0.524,-0.19 0.684,-0.419 l 6.214,-8.929 c 0.315,-0.454 0.203,-1.077 -0.25,-1.393" /></g></g></svg>
+  <g
+     id="g35">
+    <g
+       id="g2" />
+  </g>
+  <g
+     id="g3" />
+</svg>

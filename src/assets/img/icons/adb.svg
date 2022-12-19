@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   height="161"
+   width="196"
+   sodipodi:docname="adb.svg"
+   version="1.1"
+   viewBox="0 0 196 161"
+   id="Icon">
+  <metadata
+     id="metadata41">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>OBIC_Campaign_Oracle-Autonomous-Database_detailed_rgb</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="Icon"
+     inkscape:window-maximized="1"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:cy="111.713"
+     inkscape:cx="137.5426"
+     inkscape:zoom="2.3229167"
+     showgrid="false"
+     id="namedview39"
+     inkscape:window-height="855"
+     inkscape:window-width="1440"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs12">
+    <style
+       id="style10">.cls-1{fill:none;}.cls-2{fill:#d3eef4;}.cls-3{fill:#bde6ee;}.cls-4{fill:#f80000;}.cls-5{fill:#d90000;}.cls-6{fill:#ba0000;}.cls-7{fill:#9b0000;}.cls-8{fill:#00758f;}.cls-9{fill:#fff;}</style>
+  </defs>
+  <title
+     id="title14">OBIC_Campaign_Oracle-Autonomous-Database_detailed_rgb</title>
+  <rect
+     y="-64.57399"
+     x="-45.201794"
+     id="rect16"
+     height="288"
+     width="288"
+     class="cls-1" />
+  <path
+     id="path18"
+     d="m 41.798206,110.16601 a 39,39 0 0 1 0,-78.000001 c 0.35,0 0.7,0 1,0 a 39,39 0 0 1 70.100004,-13.1 34.48,34.48 0 0 1 44.27,22.22 c 1,-0.09 2,-0.15 3.08,-0.15 a 34.5,34.5 0 1 1 -18.78,63.450001 l -7.51,5.55 z"
+     class="cls-2" />
+  <path
+     id="path20"
+     d="m 194.79821,75.666009 a 34.23,34.23 0 0 0 -0.59,-6.37 c 0,-0.2 -0.07,-0.39 -0.11,-0.58 -0.04,-0.19 -0.1,-0.48 -0.16,-0.72 -0.06,-0.24 -0.15,-0.63 -0.23,-0.95 -0.08,-0.32 -0.11,-0.42 -0.17,-0.64 a 34.51,34.51 0 0 0 -33.24,-25.24 c -1,0 -2.07,0.05 -3.09,0.14 a 34.49,34.49 0 0 0 -53.41,-17.38 33,33 0 0 0 -52.480004,20.43 34.13,34.13 0 0 0 -3.52,-0.19 33,33 0 1 0 0,66.000001 h 86.210004 l 7.51,-5.55 a 34.51,34.51 0 0 0 53.28,-28.950001 z"
+     class="cls-3" />
+  <path
+     id="path22"
+     d="m 98.798206,80.426009 c -23.59,0 -42.72,-3.3 -42.72,-7.36 v 79.540001 c 0,4.07 19.13,7.37 42.72,7.37 23.590004,0 42.720004,-3.3 42.720004,-7.37 V 73.016009 c 0.03,4.06 -19.09,7.41 -42.720004,7.41 z"
+     class="cls-4" />
+  <path
+     id="path24"
+     d="m 56.108206,73.016009 v 79.540001 c 0,4.07 19.13,7.37 42.72,7.37 V 80.426009 c -23.59,0 -42.72,-3.35 -42.72,-7.41 z"
+     class="cls-5" />
+  <path
+     id="path26"
+     d="m 135.65821,76.746009 v 79.550001 c 3.74,-1.1 5.89,-2.37 5.89,-3.74 V 73.016009 c 0,1.41 -2.14,2.64 -5.89,3.73 z"
+     class="cls-5" />
+  <ellipse
+     id="ellipse28"
+     ry="7.3699999"
+     rx="42.720001"
+     cy="73.016006"
+     cx="98.828201"
+     class="cls-6" />
+  <path
+     id="path30"
+     d="m 56.108206,123.09601 c 0,4.07 19.13,7.37 42.72,7.37 23.590004,0 42.720004,-3.3 42.720004,-7.37 v 5.89 c 0,4.07 -19.12,7.37 -42.720004,7.37 -23.6,0 -42.72,-3.3 -42.72,-7.37 z"
+     class="cls-7" />
+  <path
+     id="path32"
+     d="m 141.54821,96.586009 c 0,4.060001 -19.12,7.360001 -42.720004,7.360001 -23.6,0 -42.72,-3.3 -42.72,-7.360001 v 5.890001 c 0,4.07 19.13,7.36 42.72,7.36 23.590004,0 42.720004,-3.29 42.720004,-7.36 z"
+     class="cls-7" />
+  <path
+     id="path34"
+     d="m 125.79821,75.666009 a 34.5,34.5 0 1 0 34.5,-34.5 34.5,34.5 0 0 0 -34.5,34.5 z"
+     class="cls-8" />
+  <path
+     id="path36"
+     d="m 171.01821,85.976009 -7.92,-21.23 a 0.88,0.88 0 0 0 -0.83,-0.58 h -3 a 0.89,0.89 0 0 0 -0.82,0.55 l -8.82,21.23 a 0.88,0.88 0 0 0 0.82,1.22 h 3.92 a 0.89,0.89 0 0 0 0.84,-0.58 l 1.23,-3.46 h 7.59 l 1.15,3.44 a 0.88,0.88 0 0 0 0.84,0.6 h 4.19 a 0.89,0.89 0 0 0 0.81,-1.19 z m -13.06,-7.09 2.36,-6.63 v 0 l 2.2,6.63 z m 24.63,5.8 -8.88,-8.88 a 0.91,0.91 0 0 1 0,-1.29 l 1.19,-1.19 a 0.93,0.93 0 0 1 1.29,0 l 5,5 0.07,-1.75 c 0,-0.29 0,-0.59 0,-0.89 a 21,21 0 0 0 -21,-21 21.07,21.07 0 0 0 -16.67,8.26 l -2.5,-2.5 a 24.47,24.47 0 0 1 43.71,15.22 v 1.86 l 4.2,-4.2 a 0.92,0.92 0 0 1 1.29,0 l 1.19,1.19 a 0.91,0.91 0 0 1 0,1.29 z m -53.45,-7.86 a 0.91,0.91 0 0 1 0,-1.29 l 8.87,-8.88 8.88,8.88 a 0.91,0.91 0 0 1 0,1.29 l -1.19,1.19 a 0.91,0.91 0 0 1 -1.29,0 l -5,-5 -0.07,1.75 c 0,0.29 0,0.59 0,0.88 a 21,21 0 0 0 21,21 21,21 0 0 0 16.63,-8.22 l 2.5,2.51 a 24.47,24.47 0 0 1 -43.67,-15.26 v -1.86 l -4.2,4.2 a 0.91,0.91 0 0 1 -1.29,0 z"
+     class="cls-9" />
+</svg>

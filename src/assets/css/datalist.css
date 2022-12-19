@@ -1,0 +1,45 @@
+.datalist-container {
+    border-radius: 3px;
+    position: absolute;
+    background-color: white;
+    z-index: 1000;
+    display: flex;
+    border: thin solid #dddddd;
+    width: 90%;
+    display: inline-block;
+}
+
+.datalist-item{
+    padding: 2px;
+}
+
+.datalist-item:hover{
+    background-color: rgba(81, 203, 238, 0.3);
+}
+
+.lds-dual-ring {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+}
+
+.lds-dual-ring:after {
+    content: " ";
+    display: block;
+    width: 20px;
+    height: 20px;
+    margin: 8px;
+    border-radius: 50%;
+    border: 3px solid rgba(81, 203, 238, 0.8);
+    border-color: rgba(81, 203, 238, 0.8) rgba(81, 203, 238, 0.8)  transparent transparent;
+    animation: lds-dual-ring 1.2s linear infinite;
+}
+  
+@keyframes lds-dual-ring {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+}

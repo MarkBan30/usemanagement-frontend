@@ -1,0 +1,9 @@
+.icon-button {
+    font-size: 16px;
+    margin: 0px 3px 0px 0px;
+}
+
+.icon-button:hover{
+    color:#4CAF50;
+    cursor: pointer;
+}

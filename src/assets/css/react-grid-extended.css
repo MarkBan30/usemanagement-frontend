@@ -1,0 +1,139 @@
+.rdg {
+    border-radius: 5px;
+    border: thin solid #dddddd !important;
+    width: calc(100% - 2px);
+    font-size: 12px !important;
+}
+
+.rdg-sm {
+    height: 120px !important;
+}
+
+.rdg-header-row {
+    border-bottom: thin solid #dddddd;
+    color: #ffffff;
+    text-align: center;
+    text-shadow: 0px 0px 1px black;
+    text-transform: capitalize;
+    
+}
+
+.rdg-header-row div{
+    border-right: unset !important;
+}
+
+.rdg-cell{
+    border-right: thin solid #dddddd !important;
+}
+
+.rdg:not(.rdg-light) {
+    --color: #ddd;
+    --border-color: #444;
+    --summary-border-color: #555;
+    --background-color: #ffffff !important;
+    --header-background-color: #009879 !important;
+    --row-hover-background-color: #f5fffd !important;
+    --row-selected-background-color: #1a73bc;
+    --row-selected-hover-background-color: #1868aa;
+    --checkbox-color: #95cfff;
+    --checkbox-focus-color: #c8e6ff;
+    --checkbox-disabled-border-color: #000;
+    --checkbox-disabled-background-color: #333;
+}
+
+.rdg-row{
+    color: black;
+    border-bottom: thin solid #dddddd;
+} 
+
+
+.rdg-editor-container { 
+    z-index: 20051 !important; 
+}
+
+.rdg-text-editor{
+    color: black !important;
+}
+
+.react-contextmenu {
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 0.25rem;
+    color: #373a3c;
+    font-size: 12px;
+    font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+    margin: 2px 0 0;
+    min-width: 160px;
+    outline: none;
+    opacity: 0;
+    padding: 5px 0;
+    pointer-events: none;
+    text-align: left;
+    transition: opacity 250ms ease !important;
+    z-index: 10051 !important; 
+  }
+  
+  .react-contextmenu.react-contextmenu--visible {
+    opacity: 1;
+    pointer-events: auto;
+  }
+  
+  .react-contextmenu-item {
+    background: 0 0;
+    border: 0;
+    color: #373a3c;
+    cursor: pointer;
+    font-weight: 500;
+    line-height: 1.5;
+    padding: 3px 20px;
+    text-align: inherit;
+    white-space: nowrap;
+  }
+
+  .react-contextmenu-item:hover{
+    background-color: #b3deff;
+  }
+
+  .react-contextmenu-item.react-contextmenu-item--active,
+  .react-contextmenu-item.react-contextmenu-item--selected {
+    color: #fff;
+    background-color: #20a0ff;
+    border-color: #20a0ff;
+    text-decoration: none;
+  }
+  
+  .react-contextmenu-item.react-contextmenu-item--disabled,
+  .react-contextmenu-item.react-contextmenu-item--disabled:hover {
+    background-color: transparent;
+    border-color: rgba(0, 0, 0, 0.15);
+    color: #878a8c;
+  }
+  
+  .react-contextmenu-item--divider {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+    cursor: inherit;
+    margin-bottom: 3px;
+    padding: 2px 0;
+  }
+  .react-contextmenu-item--divider:hover {
+    background-color: transparent;
+    border-color: rgba(0, 0, 0, 0.15);
+  }
+  
+  .react-contextmenu-item.react-contextmenu-submenu {
+    padding: 0;
+  }
+  
+  .react-contextmenu-item.react-contextmenu-submenu
+    > .react-contextmenu-item:after {
+    content: "▶";
+    display: inline-block;
+    position: absolute;
+    right: 7px;
+  }
+  
+  .example-multiple-targets::after {
+    content: attr(data-count);
+    display: block;
+  }

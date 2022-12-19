@@ -1,0 +1,40 @@
+.title{
+    padding-top: 10px;
+}
+
+
+.info{
+    margin-bottom: 0px !important;
+}
+
+.info__license {
+    margin-bottom: 0px !important;
+}
+
+.information-container{
+    background: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    height: auto;
+}
+
+.scheme-container{
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.schemes{
+    height: auto;
+}
+
+.wrapper {
+    height: unset !important;
+}
+
+.description{
+    margin-bottom: 0px !important;
+}
+
+.description > .markdown > p{
+    margin-bottom: 0px !important;
+}
